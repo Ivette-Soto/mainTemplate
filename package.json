@@ -3,6 +3,8 @@
   "version": "0.0.1",
   "description": "Template to use when generating web applications",
   "main": "index.js",
+  "type": "module"
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
